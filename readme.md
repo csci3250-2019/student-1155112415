@@ -1,4 +1,4 @@
-#CSCI3250 Milestone 2
+# CSCI3250 Milestone 2
 ## Hi my name is Tsang Ka Hung, Kenny!
 
 ### The programming language I know:
@@ -23,6 +23,4 @@ C# | ML
 - [ ] MANY ASSIGNMENTSSSSSSSSSS
 
 ### Required Screenshots
-...
-# student-1155112415
-# student-1155112415
+![alt text](cap.PNG)
